@@ -1,6 +1,5 @@
 body {
 	background-color: #ffffff;
-
 }
 
 .center-box {
@@ -105,9 +104,7 @@ h2 {
 	background-color: #ffffff;
 	border-top: 2px solid #cccccc;
 	width: 230px;
-	position: absolute;
-	left: 15px;
-	height: 103px;
+
 	padding-top: 10px;
 
 }
@@ -136,6 +133,7 @@ h2 {
 
 .name {
 	background-color: #4aaaa5;
+	
 	color: #ffffff;
 	width: 260px;
 	height: 115px;

@@ -1,0 +1,92 @@
+#githublogo {
+	height: 30px;
+	width: 30px;
+}
+#linkedinlogo {
+	height: 30px;
+	width: 30px;
+}
+#stackoverflowlogo {
+	height: 30px;
+	width: 30px;
+}
+.name {
+	background-color: #4aaaa5;
+	
+	color: #ffffff;
+	width: 260px;
+	height: 115px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 110px;
+	font-size: 30px;
+
+
+}
+#link1 {
+
+	padding-right: 5px;
+	padding-left: 5px;
+	border-right: .5px solid #cccccc;
+	color: #777777;
+	text-decoration: none;
+
+}
+#link2 {
+
+	padding-right: 5px;
+	padding-left: 5px;
+	text-decoration: none;
+	color: #777777;
+
+
+}
+#link3 {
+
+	padding-right: 5px;
+	padding-left: 5px;
+	border-right: .5px solid #cccccc;
+	color: #777777;
+	text-decoration: none;
+
+}
+.links {
+	background-color: #ffffff;
+	width: 260px;
+	height: 75px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 75px;
+	font-size: 20px;
+	
+	
+}
+
+#about-me {
+	margin-right: 15px;
+	
+}
+.footer {
+	
+}
+#placeholderimg1 {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#placeholderimg2 {
+	margin-right: 10px;
+}
+#placeholderimg3 {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#placeholderimg4 {
+	margin-right: 10px;
+}
+#placeholderimg5 {
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.inner-content {
+	background-color: white;
+}
